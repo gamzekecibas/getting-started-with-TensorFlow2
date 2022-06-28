@@ -13,3 +13,7 @@ It is second coding assignment in the course. Regularization techniques and call
 * [03-Capstone-project](https://github.com/gamzekecibas/tensorflow2-for-deep-learning/blob/main/getting-started-with-TensorFlow2/03-Capstone-project/03-capstone-project.ipynb): 
 It is final project of the course. [SVHN](http://ufldl.stanford.edu/housenumbers/) dataset is used to train an MLP model and a CNN model using their guidelines. Previously studied
 techniques are implemented to the project.  
+
+***COURSE 2:*** *[Customizing Models with Tensorflow2](https://github.com/gamzekecibas/tensorflow2-for-deep-learning/tree/main/customizing-your-models-with-Tensorflow2)*
+* [001-transfer-learning-tutorial](https://github.com/gamzekecibas/tensorflow2-for-deep-learning/blob/main/customizing-your-models-with-Tensorflow2/001-transfer-learning-tutorial.ipynb): The notebook includes introduction to Keras Functional API and adjusting layers manually.
+* [002-transfer-learning-assignment](https://github.com/gamzekecibas/tensorflow2-for-deep-learning/blob/main/customizing-your-models-with-Tensorflow2/002-transfer-learning-assignment.ipynb): Its first assignment of the course. There is a comparison between CNN and Transfer Learning. [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) dataset is used in the project.
